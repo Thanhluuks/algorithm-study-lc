@@ -1,3 +1,5 @@
+package Daily;
+
 public class CompressedString {
     static String compressedString(String word) {
         StringBuilder comp = new StringBuilder();

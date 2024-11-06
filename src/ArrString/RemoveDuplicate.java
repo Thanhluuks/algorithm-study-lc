@@ -1,6 +1,6 @@
+package ArrString;
+
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 
 public class RemoveDuplicate {
     static int removeDuplicated(int[] nums) {

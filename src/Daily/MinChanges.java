@@ -1,3 +1,5 @@
+package Daily;
+
 public class MinChanges {
     static int minChanges(String s) {
         int count = 0;

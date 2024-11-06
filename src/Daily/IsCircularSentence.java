@@ -1,3 +1,5 @@
+package Daily;
+
 public class IsCircularSentence {
     static boolean isCircularSentence(String str) {
         String[] strArr =str.split(" ");

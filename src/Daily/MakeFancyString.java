@@ -1,3 +1,5 @@
+package Daily;
+
 public class MakeFancyString {
     static String makeFancyString(String s) {
         StringBuilder str = new StringBuilder(s);

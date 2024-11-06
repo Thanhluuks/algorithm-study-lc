@@ -1,3 +1,5 @@
+package Daily;
+
 public class ReverseString {
     public static String reverseByArr(String str) {
         StringBuilder result = new StringBuilder();

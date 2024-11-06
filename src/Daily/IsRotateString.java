@@ -1,3 +1,5 @@
+package Daily;
+
 public class IsRotateString {
     static boolean isRotateString(String s, String goal) {
         if(s.length() != goal.length()) return false;

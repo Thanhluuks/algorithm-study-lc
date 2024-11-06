@@ -1,3 +1,5 @@
+package ArrString;
+
 import java.util.HashMap;
 
 public class MajorityElement {
