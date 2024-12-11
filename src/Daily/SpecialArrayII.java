@@ -49,7 +49,7 @@ public class SpecialArrayII {
         for(int[] q:queries){
             int from=q[0];
             int to=q[1];
-            ans[count]=prefixSum[to]-prefixSum[from]==0 ? true:false;
+            ans[count]= prefixSum[to] - prefixSum[from] == 0;
             count++;
         }
         return ans;
