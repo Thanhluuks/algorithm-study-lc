@@ -10,6 +10,9 @@ public class Tree {
         this.root = createTree(values);
     }
 
+    public Tree() {
+    }
+
     // Helper method to create the tree from an array
     private TreeNode createTree(Integer[] values) {
         if (values == null || values.length == 0) {
